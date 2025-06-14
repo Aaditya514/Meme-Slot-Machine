@@ -32,6 +32,8 @@ src/
 │   └── captions.js              # 💬 Random captions to generate nonsense
 ```
 
+> 💡 Want to get creative? You can customize the random captions in `utils/captions.js`. Add your own jokes, references, or inside memes.
+
 ---
 
 ## 🛠 Tech Stack
